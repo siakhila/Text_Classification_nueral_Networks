@@ -36,14 +36,22 @@ The **Neural Network model** is recommended for handwriting recognition due to i
 ## Repository Structure
 
 📂 Neural-Network-vs-KNN
-│── 📄 README.md  # Project overview
-│── 📄 ALY6020_Assignment_5_AkhilaSingaraju.ipynb  # Jupyter Notebook with implementation
-│── 📄 ALY6020_Assignment_5_AkhilaSingaraju.docx  # Detailed report with analysis
-│── 📂 data
-│   ├── letters.csv  # Handwriting dataset
-│── 📂 models
-│   ├── knn_model.pkl  # Trained KNN model
-│   ├── neural_network_model.h5  # Trained Neural Network model
+
+📄 README.md  # Project overview
+
+📄 TextClassification.ipynb  # Jupyter Notebook with implementation
+
+📄 TextClassification.docx  # Detailed report with analysis
+
+📂 data
+
+letters.csv  # Handwriting dataset
+
+📂 models
+
+knn_model.pkl  # Trained KNN model
+
+neural_network_model.h5  # Trained Neural Network model
 
 
 ## How to Run

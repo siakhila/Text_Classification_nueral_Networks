@@ -54,15 +54,5 @@ knn_model.pkl  # Trained KNN model
 neural_network_model.h5  # Trained Neural Network model
 
 
-## How to Run
-1. Install dependencies:  
-   ```bash
-   pip install numpy pandas scikit-learn tensorflow
-   ```
-2. Open and run the Jupyter Notebook:
-   ```bash
-   jupyter notebook TextClassification.ipynb
-   ```
-
 ## Contributors
 - **Akhila Singaraju**

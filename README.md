@@ -61,7 +61,7 @@ neural_network_model.h5  # Trained Neural Network model
    ```
 2. Open and run the Jupyter Notebook:
    ```bash
-   jupyter notebook ALY6020_Assignment_5_AkhilaSingaraju.ipynb
+   jupyter notebook TextClassification.ipynb
    ```
 
 ## Contributors
